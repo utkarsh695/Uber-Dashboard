@@ -105,3 +105,5 @@ Strategic Planning: Helps Uber allocate resources efficiently (e.g., promoting h
 6. Screenshots / Demos
 
 Dashboard Preview:
+Show what the dashboard looks like:
+https://github.com/utkarsh695/Uber-Dashboard/blob/main/Snapshot.uber.png
